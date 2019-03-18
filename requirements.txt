@@ -1,0 +1,5 @@
+captcha
+tensorflow
+Pillow
+numpy
+
